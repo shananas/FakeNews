@@ -1,6 +1,6 @@
 title: Vanish Information Bar
 originalAuthor: TopazTK
-description: Unalives the information bar
+description: Unalives the information bar. Currently only works on the steam version.
 assets:
 - name: scripts/Vanish Information Bar.lua
   method: copy
